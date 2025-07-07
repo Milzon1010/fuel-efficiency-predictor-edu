@@ -1,0 +1,23 @@
+# Ignore Python virtual environment folders
+venv/
+.env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac/Windows hidden files
+.DS_Store
+Thumbs.db
+
+# Data/model files (optional, kalau tidak mau upload dataset/model ke repo)
+data/
+models/
+results/
+
+# VS Code config (optional)
+.vscode/
