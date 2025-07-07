@@ -21,3 +21,6 @@ results/
 
 # VS Code config (optional)
 .vscode/
+
+__pycache__/
+*.pyc
